@@ -1,0 +1,7 @@
+* IDA
+** [[http://www.binarypool.com/idapluginwriting/][IDA plugin writting]]
+** [[http://www.openrce.org/reference_library/ida_sdk][IDA sdk doc]]
+
+   
+* 计算机视觉
+  [[https://cn.udacity.com/course/introduction-to-computer-vision--ud810][计算机视觉概论 Udacity]]
