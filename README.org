@@ -1,7 +1,14 @@
 * IDA
-** [[http://www.binarypool.com/idapluginwriting/][IDA plugin writting]]
-** [[http://www.openrce.org/reference_library/ida_sdk][IDA sdk doc]]
+[[http://www.binarypool.com/idapluginwriting/][IDA plugin writting]]
+
+[[http://www.openrce.org/reference_library/ida_sdk][IDA sdk doc]]
 
    
 * 计算机视觉
-  [[https://cn.udacity.com/course/introduction-to-computer-vision--ud810][计算机视觉概论 Udacity]]
+[[https://cn.udacity.com/course/introduction-to-computer-vision--ud810][计算机视觉概论 Udacity]]
+
+  
+* win crack
+[[https://www.codeproject.com/Articles/4610/Three-Ways-to-Inject-Your-Code-into-Another-Proces][Three ways to inject your code into another process]]
+
+[[https://www.cnblogs.com/BoyXiao/archive/2011/08/11/2134367.html][中文 代码注入之远程线程]]
