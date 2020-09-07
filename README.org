@@ -1,5 +1,9 @@
 按照个人偏好收集的教程。
 
+* RSA加密
+https://www.youtube.com/watch?v=D_kMadCtKp8 
+https://stackoverflow.com/questions/5403808/private-key-length-bytes#:~:text=The%20size%20of%20a%20RSA,same%20size%20than%20the%20modulus). 解释了实现RSA中的一些其它概念。Exponent, Modules.
+
 * JS
 [[https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/][ES modules: A cartoon deep-dive]]
 
