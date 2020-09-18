@@ -1,7 +1,8 @@
 按照个人偏好收集的教程。
 
 * RSA加密
-https://www.youtube.com/watch?v=D_kMadCtKp8 
+[[https://www.youtube.com/watch?v=D_kMadCtKp8][永乐大帝讲的RSA课程]] 
+
 https://stackoverflow.com/questions/5403808/private-key-length-bytes#:~:text=The%20size%20of%20a%20RSA,same%20size%20than%20the%20modulus). 解释了实现RSA中的一些其它概念。Exponent, Modules.
 
 * JS
@@ -21,10 +22,6 @@ https://stackoverflow.com/questions/5403808/private-key-length-bytes#:~:text=The
 [[https://www.cnblogs.com/BoyXiao/archive/2011/08/11/2134367.html][中文 代码注入之远程线程]]
 
 * 在线课程
-- [[http://www.jikexueyuan.com][极客学院]]
-  收费了，不推荐
-- [[https://www.imooc.com][慕课网]]
-  收费了，不推荐
 - [[https://open.163.com/ocw/#computer][网易公开课 计算机]]
   课程不多，但是编程范式之类的底层课程值得推荐。
   
