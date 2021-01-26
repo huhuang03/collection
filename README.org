@@ -1,4 +1,8 @@
+
 按照个人偏好收集的教程。
+
+* Ghida
+[[https://github.com/NationalSecurityAgency/ghidra/blob/master/GhidraDocs/GhidraClass/Advanced/improvingDisassemblyAndDecompilation.tex][improvingDisassemblyAndDecompilation]] 需要导出到pdf，或者找已经导好了的。
 
 * RSA加密
 [[https://www.youtube.com/watch?v=D_kMadCtKp8][永乐大帝讲的RSA课程]] 
