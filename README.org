@@ -46,3 +46,7 @@ https://www.youtube.com/watch?v=F27PLin3TV0
 
 * rn
 [[https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook--a4983397][useState under the hood]]
+
+
+* others
+[[https://www.computerhope.com/tips/tip224.htm][switch window destop by num]]
