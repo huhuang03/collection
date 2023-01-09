@@ -1,5 +1,8 @@
 
 按照个人偏好收集的教程。
+* Java
+* JNI
+- https://docs.oracle.com/javase/9/docs/specs/jni/invocation.html#getenv
 
 * Flutter
 - [[https://www.youtube.com/watch?v=996ZgFRENMs][How Flutter render Widgets]]
