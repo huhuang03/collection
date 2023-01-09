@@ -2,8 +2,8 @@
 按照个人偏好收集的教程。
 
 * Flutter
-[[https://www.youtube.com/watch?v=996ZgFRENMs][How Flutter render Widgets]]
-[[https://stackoverflow.com/questions/51822842/show-hide-a-widget-without-recreating-it][show/hide a widget without recreating it]]
+- [[https://www.youtube.com/watch?v=996ZgFRENMs][How Flutter render Widgets]]
+- [[https://stackoverflow.com/questions/51822842/show-hide-a-widget-without-recreating-it][show/hide a widget without recreating it]]
 
 * Ghida
 [[https://github.com/NationalSecurityAgency/ghidra/blob/master/GhidraDocs/GhidraClass/Advanced/improvingDisassemblyAndDecompilation.tex][improvingDisassemblyAndDecompilation]] 需要导出到pdf，或者找已经导好了的。
