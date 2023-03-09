@@ -64,3 +64,6 @@ https://www.youtube.com/watch?v=F27PLin3TV0
 [[https://www.computerhope.com/tips/tip224.htm][switch window destop by num]]
 * QT
 [[https://doc.qt.io/qt-5/qtwidgets-tutorials-notepad-example.html][Qt Notepad Tutorial]]
+
+* haha
+https://youtube.com/shorts/yDfuLR1LDB4?feature=share
