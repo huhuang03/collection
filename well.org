@@ -27,6 +27,6 @@
   比较好的docker入门教程
 
 * 视频
-- [[http://open.163.com/special/opencourse/paradigms.html][编程范式]]
+- [[https://open.163.com/newview/movie/free?pid=RHJP3F313&mid=KHJP3F84A][编程范式]]
 
   能解释很多底层汇编的东西。C的原理。
