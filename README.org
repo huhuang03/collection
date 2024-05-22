@@ -1,4 +1,4 @@
-Perisional Collections.
+Personal Collections.
 
 * C
 - [[https://stackoverflow.com/questions/8047261/what-does-dot-mean-in-a-struct-initializer][what-does-dot-mean-in-a-struct-initializer]]
